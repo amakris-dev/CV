@@ -1,0 +1,163 @@
+cv:
+  name: Athanasios Makris
+  location: Nea Ionia, Athens, Greece
+  email: mthanos_ld@hotmail.com
+  phone: tel:+306940805799
+  social_networks:
+    - network: LinkedIn
+      username: athanasios-makris-28040a135
+  sections:
+    introduction:
+      - Full-stack Web Developer, equipped with 7 YoE in the industry.
+      - Proficient in creating pixel-perfect, robust and modular websites, e-commerce platforms and web apps.
+      - Attentive to detail, uncompromising in matters of quality and constantly on the lookout for new knowledge.
+    education:
+      - institution: Department of Informatics and Telecommunications - NKUA
+        area: Computer Science
+        degree: BSc
+    experience:
+      - company: 9pixels
+        position: Junior Web Developer
+        location: Athens, Greece
+        start_date: 2018-07
+        end_date: 2020-10
+      - company: Hellenic Army
+        position: Private, Department of Research and Informatics
+        location: Xanthi & Athens, Greece
+        start_date: 2020-11
+        end_date: 2021-08
+      - company: Deloitte Digital
+        position: Senior Consultant
+        location: Athens, Greece
+        start_date: 2021-09
+        end_date: 2023-12
+      - company: DigitalUp
+        position: Web Developer
+        location: Athens, Greece
+        start_date: 2024-01
+        end_date: present
+    industry_knowledge_-_frontend:
+      - label: CSS Preprocessors
+        details: SASS, LESS
+      - label: CSS Frameworks
+        details: Bootstrap, Tailwind CSS
+      - label: JavaScript Libraries
+        details: jQuery, Animate On Scroll, Chart.js (among others)
+      - label: JavaScript Frameworks
+        details: Vue.js, React, Svelte
+      - label: JavaScript Meta-Frameworks
+        details: Nuxt, Next.js, SvelteKit
+    industry_knowledge_-_backend:
+      - label: Languages
+        details: PHP, Node.js
+      - label: PHP Frameworks
+        details: Laravel, Symfony
+      - label: PHP CMS Platforms
+        details: Drupal, Wordpress, Magento
+      - label: PHP Templating Engines
+        details: Twig
+      - label: Node.js Frameworks
+        details: Express
+      - label: Package Managers
+        details: Composer (PHP), npm (JavaScript)
+      - label: Databases
+        details: MySQL, MariaDB, PostgreSQL
+      - label: Database Management Tools
+        details: phpMyAdmin, Adminer
+    industry_knowledge_-_miscellaneous:
+      - label: Version Control
+        details: Git
+      - label: Tools
+        details: Drush, Docker
+      - label: Software
+        details: VS Code, PhpStorm
+    soft_skills:
+      - label: Accountability
+        details: Claiming successes proudly and owning up to potential missteps transparently.
+      - label: Communication
+        details: Understanding when and what needs to be communicated, as well as how it should be phrased.
+      - label: Critical Thinking
+        details: Recognising that what usually works isn't always the answer to every problem.
+      - label: Effort Estimation
+        details: Gauging any required work effort accurately through prior experience.
+      - label: Emotional Intelligence
+        details: Being empathetic, supportive, non-confrontational and open to criticism as part of a team.
+      - label: Self-Awareness
+        details: Putting all acquired knowledge into practice with confidence, while constantly scanning for and openly admitting to weak spots.
+      - label: Self-Learning
+        details: Taking initiative in deepening industry knowledge, without requiring external motivational factors.
+      - label: Time Management
+        details: Organising the work day efficiently so that the aggreed upon deliverables and deadlines can be met without compromising quality.
+
+design:
+  theme: sb2nov
+  font: Latin Modern Serif
+  font_size: 10pt
+  page_size: a4paper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: true
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 24 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+
+locale_catalog:
+  phone_number_format: national 
+  date_style: "MONTH_ABBREVIATION YEAR" 
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: to
